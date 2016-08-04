@@ -1,0 +1,14 @@
+{
+  "services": {
+    "twitter": {
+      "service": "twitter",
+      "consumerKey": "xxx",
+      "secret": "xxx"
+    },
+    "facebook": {
+      "service": "facebook",
+      "appId": "xxx",
+      "secret": "xxx"
+    }
+  }
+}
